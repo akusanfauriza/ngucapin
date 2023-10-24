@@ -1,2 +1,4 @@
-# your-birthday
-A simple website that help you to impress your crush, and celebrate her birthday through the website
+# ngucapin
+A simple website that help you to impress your favorite person on his/her birthday.
+## 🤖
+Build using HTML, CSS and Javascript.
